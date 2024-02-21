@@ -1,6 +1,7 @@
 body {
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
+    max-width: 1080px;
     height: 100vh;
     font-family: Roboto, sans-serif;
 }
@@ -37,6 +38,26 @@ a {
 }
 
 .cappuccino {
-    width: 300px;
+    width: 400px;
+    padding: 20px;
+}
+
+.one {
+    display: flex;
+    justify-content: center;
+    padding: 46px;
+    background-color: #1F2937;
+}
+
+.headingmain {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+    
+}
+
+.pmain {
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
