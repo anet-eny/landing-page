@@ -31,3 +31,12 @@ a {
     padding: 16px;
 }
 
+.sections {
+    display: flex;
+    flex-direction: column;
+}
+
+.cappuccino {
+    width: 300px;
+}
+
