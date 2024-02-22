@@ -87,3 +87,19 @@ a {
     border: #3882f6 solid 3px;
 }
 
+.containerinfo {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.info {
+    max-width: 200px;
+}
+
+.text {
+    color: #1F2937;
+    font-size: 18px;
+    text-align: center;
+}
+
