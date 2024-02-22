@@ -52,7 +52,7 @@ a {
 
 .headingmain {
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: 800;
     color: #F9FAF8;
     
 }
@@ -75,7 +75,7 @@ a {
 .headinginfo {
     text-align: center;
     font-size: 36px;
-    font-weight: extra-bold;
+    font-weight: 800;
     color: #1F2937;
 }
 
@@ -101,5 +101,29 @@ a {
     color: #1F2937;
     font-size: 18px;
     text-align: center;
+}
+
+.three {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1F2937;
+    margin: 0;
+    
+}
+
+.quoteauthor {
+    /* text-align: end; */
+    align-self: flex-end;
+    font-weight: bold;
+   
 }
 
