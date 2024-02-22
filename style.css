@@ -79,3 +79,11 @@ a {
     color: #1F2937;
 }
 
+.infoimg {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: #3882f6 solid 3px;
+}
+
