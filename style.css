@@ -119,13 +119,17 @@ a {
     font-weight: 200;
     color: #1F2937;
     margin: 0;
-    
 }
 
 .quoteauthor {
-    /* text-align: end; */
     align-self: flex-end;
     font-weight: bold;
-   
 }
+
+.four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
