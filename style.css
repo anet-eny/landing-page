@@ -130,12 +130,22 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #3882f6;
-    /* max-width: 800px; */
+    
+   
 }
 
 .containersignup {
-    padding: 36px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 36px 82px;
+    border-radius: 10px;
+    margin: 80px auto;
+}
+
+.containersignuptext {
+    padding-right: 50px;
 }
 
 .headingsign {
